@@ -53,7 +53,7 @@ Suppose the root of this directory is stored in an envirnment variable
 
 Contact
 -------
-You can reach Max Lin by email <max at m4xl1n dot com>.
+You can reach Max Lin by email, max at m4xl1n dot com.
 
 License
 -------

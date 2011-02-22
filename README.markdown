@@ -8,4 +8,4 @@ To start working on this contest, simply download/clone this repository and run 
 The `data/installations.csv` file is now available, as is the `data/test_data.csv` file. Obviously, the values of the variable `Installed` are `NA` in both of these data sets.
 
 # Max Lin's submission
-Max Lin makes the codes behind his submission (team name: Record Me Men) available under `maxlin_submission/`.  See `maxlin_submission/README` for more details about Max's codes.
+Max Lin makes the codes behind his submission (team name: Record Me Men) available under `maxlin_submission/`.  See `maxlin_submission/README.markdown` for steps on running Max's codes.

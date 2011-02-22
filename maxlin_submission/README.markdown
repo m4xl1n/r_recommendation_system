@@ -8,7 +8,7 @@ classifiers and generate his final submission.  For more background on
 the classification models behind these scripts, please see the [post]
 [4].
 
-The programs requires R and Python.
+The programs are written in R and Python.
 
 Steps
 -----
@@ -16,7 +16,7 @@ Steps
 Suppose the root of this directory is stored in an envirnment variable
 `BASE`.
 
-    $ export BASE=r_recommendation_system/maxlin_submission
+    $ export BASE=/path/to/r_recommendation_system/maxlin_submission
 
 1. Split training data into 3 subsets and repeat 10 times for cross
    validation.
